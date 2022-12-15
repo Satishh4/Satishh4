@@ -1,14 +1,21 @@
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
--  I’m @Satishh4
--  
+- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+-  <h1>I’m @Satishh4</h1>
+
 - I use daily .css .js .json , .c , .cs , .py , jsx, .svg
-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 - <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
--  
+  
+
 - 👀 I’m interested in Developing , Designing and Deploying
 - 🌱 I’m currently learning Full Stack Development
 - Learning more about and studying React, React Native, Android Studio ,C# 
