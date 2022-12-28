@@ -39,7 +39,6 @@ I learned a lot from the open-source community and i love how collaboration and 
 
 🌸 Completed 0 tasks today
 ✅ Completed 73 tasks so far
-⏳ Longest streak is 10 days
 
 📈 my github stats
 
