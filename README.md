@@ -21,8 +21,8 @@
 - Learning more about and studying React, React Native, Android Studio ,C# 
 - 💞️ I’m looking to collaborate on Projects of Software Development and UI Designing 
 
-- Connecting and sharing Professional updates on LinkedIn @ www.linkedin.com/in/satishh-kumar 
-- Updating my Portfolio Website with some of my work sample www.Satishh.com
+- Connecting and sharing Professional updates on LinkedIn @ [ www.linkedin.com/in/satishh-kumar ]
+- Updating my Portfolio Website with some of my work sample @ [ https://satishh-kumar.netlify.app/ ]
 
 hi, i'm Satish Kumar, a passionate self-taught full stack web developer and a freelance software engineer from india. 
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
